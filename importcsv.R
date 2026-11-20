@@ -1,0 +1,5 @@
+movies <- read.csv("imdb_top_1000.csv.xls")
+print(head(movies))
+print(tail(movies))
+print(str(movies))
+print(summary(movies))
